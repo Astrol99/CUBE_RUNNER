@@ -5,8 +5,8 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+#/[Bb]uild/      Need build files to make game accessible online
+#/[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
